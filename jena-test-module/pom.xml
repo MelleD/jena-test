@@ -16,8 +16,4 @@
 
    <artifactId>jena-test-module</artifactId>
    <packaging>jar</packaging>
-
-      <dependencies>
-
-      </dependencies>
 </project>
