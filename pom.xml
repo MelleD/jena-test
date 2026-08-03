@@ -32,7 +32,7 @@
          <!-- Jena -->
          <dependency>
                <groupId>org.apache.jena</groupId>
-               <artifactId>jena-bom</artifactId>
+               <artifactId>apache-jena-libs</artifactId>
                <version>${jena.version}</version>
                <type>pom</type>
             <scope>import</scope>
