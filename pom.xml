@@ -24,7 +24,7 @@
    </modules>
    
    <properties>
-         <jena.version>6.1.0</jena.version>
+         <jena.version>6.3.0-SNAPSHOT</jena.version>
    </properties>
 
    <dependencyManagement>
@@ -35,7 +35,6 @@
                <artifactId>apache-jena-libs</artifactId>
                <version>${jena.version}</version>
                <type>pom</type>
-            <scope>import</scope>
          </dependency>
       </dependencies>
    </dependencyManagement>
